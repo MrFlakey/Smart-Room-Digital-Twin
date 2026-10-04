@@ -117,3 +117,7 @@ InitTestScene*.unity*
 /tools/HistoryLogger/bin/
 /tools/HistoryLogger/obj/
 /tools/HistoryLogger/publish/
+
+# 3D room model (not redistributed)
+/Assets/Assets/Minimal Monochrome Bedroom.fbx
+/Assets/Assets/Minimal Monochrome Bedroom.fbx.meta
