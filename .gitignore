@@ -112,3 +112,8 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# History logger build output
+/tools/HistoryLogger/bin/
+/tools/HistoryLogger/obj/
+/tools/HistoryLogger/publish/
